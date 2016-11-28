@@ -170,6 +170,7 @@ header .header-content {
 }
 header .header-content .header-content-inner h1 {
   
+  
   font-weight: 700;
   opacity: 0.93;
   text-transform: uppercase;
@@ -183,7 +184,6 @@ header .header-content .header-content-inner hr {
 header .header-content .header-content-inner p {
   font-weight: 300;
   opacity: 0.97;
-  
   font-size: 20px;
   margin-bottom: 50px;
 }
