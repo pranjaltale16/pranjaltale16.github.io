@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>pranjaltale16.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>pranjaltale16.github.io/posts/post-1/</loc>
+    <loc>/posts/post-1/</loc>
     <lastmod>2019-03-18T02:01:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>pranjaltale16.github.io/tags/cms/</loc>
-    <lastmod>2019-03-18T02:01:58+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>pranjaltale16.github.io/tags/iitroorkee/</loc>
+    <loc>/tags/cms/</loc>
     <lastmod>2019-03-18T02:01:58+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>pranjaltale16.github.io/tags/img/</loc>
+    <loc>/tags/iitroorkee/</loc>
     <lastmod>2019-03-18T02:01:58+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>pranjaltale16.github.io/posts/</loc>
+    <loc>/tags/img/</loc>
     <lastmod>2019-03-18T02:01:58+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>pranjaltale16.github.io/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2019-03-18T02:01:58+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>pranjaltale16.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-03-18T02:01:58+05:30</lastmod>
     <priority>0</priority>
   </url>

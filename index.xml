@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pranjal Tale</title>
-    <link>pranjaltale16.github.io/</link>
+    <link>/</link>
     <description>Recent content on Pranjal Tale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
     
-	<atom:link href="pranjaltale16.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>pranjaltale16.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>pranjaltale16.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Experienced Chief Coordinator with a demonstrated history of working in the internet industry. Skilled in Python, Golang, Kubernetes, and Containers. I love writing code to which deploys code Passionate about containers and Infrastructure as Code. Currently doing Integrated MSc focused in Applied Mathematics from Indian Institute of Technology, Roorkee.</description>
     </item>
     
     <item>
       <title>Content Management System @iitr.ac.in</title>
-      <link>pranjaltale16.github.io/posts/post-1/</link>
+      <link>/posts/post-1/</link>
       <pubDate>Mon, 18 Mar 2019 02:01:58 +0530</pubDate>
       
-      <guid>pranjaltale16.github.io/posts/post-1/</guid>
+      <guid>/posts/post-1/</guid>
       <description>Content Management System, a multi-user role-based interface for managing, updating and publishing content on IIT Roorkee&amp;rsquo;s official website. This is built and managed by the student body, Information Management Group. CMS simplifies the process of updating the content on the official website of IIT-Roorkee, which consists of more than 10000 pages in itself, we build our own CMS.
 Updating website before CMS It is very difficult to update HTML pages, and when you have thousands of them, it because next to impossible to manage.</description>
     </item>

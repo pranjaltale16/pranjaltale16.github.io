@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pranjal Tale</title>
-    <link>pranjaltale16.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Pranjal Tale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 02:01:58 +0530</lastBuildDate>
     
-	<atom:link href="pranjaltale16.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cms</title>
-      <link>pranjaltale16.github.io/tags/cms/</link>
+      <link>/tags/cms/</link>
       <pubDate>Mon, 18 Mar 2019 02:01:58 +0530</pubDate>
       
-      <guid>pranjaltale16.github.io/tags/cms/</guid>
+      <guid>/tags/cms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iitroorkee</title>
-      <link>pranjaltale16.github.io/tags/iitroorkee/</link>
+      <link>/tags/iitroorkee/</link>
       <pubDate>Mon, 18 Mar 2019 02:01:58 +0530</pubDate>
       
-      <guid>pranjaltale16.github.io/tags/iitroorkee/</guid>
+      <guid>/tags/iitroorkee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Img</title>
-      <link>pranjaltale16.github.io/tags/img/</link>
+      <link>/tags/img/</link>
       <pubDate>Mon, 18 Mar 2019 02:01:58 +0530</pubDate>
       
-      <guid>pranjaltale16.github.io/tags/img/</guid>
+      <guid>/tags/img/</guid>
       <description></description>
     </item>
     
