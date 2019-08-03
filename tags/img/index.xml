@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Img on Pranjal Tale</title>
-    <link>/tags/img/</link>
+    <link>https://pranjaltale16.github.io/tags/img/</link>
     <description>Recent content in Img on Pranjal Tale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 02:01:58 +0530</lastBuildDate>
     
-	<atom:link href="/tags/img/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pranjaltale16.github.io/tags/img/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content Management System @iitr.ac.in</title>
-      <link>/posts/post-1/</link>
+      <link>https://pranjaltale16.github.io/posts/post-1/</link>
       <pubDate>Mon, 18 Mar 2019 02:01:58 +0530</pubDate>
       
-      <guid>/posts/post-1/</guid>
+      <guid>https://pranjaltale16.github.io/posts/post-1/</guid>
       <description>Content Management System, a multi-user role-based interface for managing, updating and publishing content on IIT Roorkee&amp;rsquo;s official website. This is built and managed by the student body, Information Management Group. CMS simplifies the process of updating the content on the official website of IIT-Roorkee, which consists of more than 10000 pages in itself, we build our own CMS.
 Updating website before CMS It is very difficult to update HTML pages, and when you have thousands of them, it because next to impossible to manage.</description>
     </item>
